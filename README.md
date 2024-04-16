@@ -27,7 +27,7 @@ While on the map holding down the right mouse button for 0.5 seconds prompts the
 3) Discard -Cancel the operation by clicking
 
  **known issue** 
-1) when selecting discard, the waypoint will not be removed until there a a new waypoint operation*
+1) when selecting discard, the waypoint will not be removed until there a new waypoint operation*
 
 ## The Waypoint list
 The Waypoints List can be toggled from the rights side operations area by clicking "Show Waypoints/Hide Waypoints" 
@@ -44,6 +44,9 @@ this provides table view of all saved waypoints with the following options
 4) the list pushes the map and operations area
 
 ## Project Setup
+
+Clone the repository from https://github.com/Hannes-Soosaar/milrem_si24 in your preferred IDE
+(IntelliJ IDEA 2023.3.2 was used to develop the app)
 
 On the first run please user npm install do install all the dependencies
 
